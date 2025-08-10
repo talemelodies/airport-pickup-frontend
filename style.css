@@ -3,17 +3,17 @@
 }
 
 .hero-background {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.4) 100%), url("https://lh3.googleusercontent.com/aida-public/AB6AXuAqDi8SuaW5d2dcO9tZScgHpGWKKNVdFN1-ujD4v4MJoCs7FOG2CfuTJXPwOTmhnQUrWJ1xQ6HmWOOGyN5Oay5UFlUsVEt8HLTMMMwAaEH_pR6CQ4xKy-pUwu4QnuauMVNQdy4QEcHESUN9haQcMEnIv0KOLsdXI84b6La5ShDZj4wyWSXvzGTcKbo4cFcRQ260I-vLCUDhQMgIFYsFS6oz5669YFUl1931beTmdWdFMVBrhAelBKlf7i7L_PLUhR5ZaaCTWg6lKWxt");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.4) 100%), url("image/hero-background.png");
 }
 
 .avatar-sophia {
-  background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuBQWI8-ERP3AXmyQhOvmzVpyoYOxVLqkkcGOXu5q4-pUbTFoEd2By0QnwUTuEg2VC2NdUBAHeqJH5v8xfSuVNe4wGVkq7oeq8SiQMzOs7F2uMulB0ODewIZnBK6E9xg_7fNj3kwbxAtKUlt7hm2nCgPH2jLIxnyY5V0quJ414v5xOYJrKGFuJGw_8BjWf5eWq0r5rbSsHxX4opNa7dpCE0Fmm9nZo9-EJHzm3vx3cjgNKHzqoVBN-pqSKCdcESCyVKuvV3PL_9MFwLQ");
+  background-image: url("image/avatar-sophia.png");
 }
 
 .avatar-ethan {
-  background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuCoiQSF0szuqmz24RuxgHNTSGXYCvsq-o2eOZPIbUw8A-FOeEZ32mre0U_t4RrKzil-kI5J2QouxqxFxgG_Dv4c5PExAeWaBwjwZYZnp-DDzO4LqRvmP2MsjvrJTROS2PnrxGLAxnntoNmeeC74uFhu1QGJiKQ2NEOXnGS2vUfLVZSQwpw12Qb5sAFAH8P0qaR-bQcGzraGRHRnwVVcY3Jvufez5ooTbRvsCU1moC2U0itGlJDqJbYWna-9VTMXLp8DUxXR1yZ_FtVS");
+  background-image: url("image/avatar-ethan.png");
 }
 
 .avatar-olivia {
-  background-image: url("https://lh3.googleusercontent.com/aida-public/AB6AXuDWk5gfTaIla1sLhtVHDTQRQ38vpS8Cruqi5fqThEAnDjow5Gz5NyRVojlP1BJfL6e30sp-trmWc2MpziMTyRkvJYXNDOKOYG6f-dylQaZsni-ZsC-KABMTMqM8iXK0Yei_JJANUGZThKcYFrNzl63VZF0GkxA-j1lsdolmeveUxfVzBDjZtd90pIgjw63Ljm7jTn-O5HJwx2qqvWPHpgwoIx_9XBksVa4GPU5Kgldql4Eu9C4BvWLcOzrCXzosazH1xsSNHzjYjCwV");
+  background-image: url("image/avatar-olivia.png");
 }
