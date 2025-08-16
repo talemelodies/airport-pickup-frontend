@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.font-jakarta-noto {
+  font-family: "Plus Jakarta Sans", "Noto Sans", sans-serif;
+}
+
+.hero-background {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.4) 100%), url("assets/image/hero-background.png");
+}
+
+.avatar-sophia {
+  background-image: url("assets/image/avatar-sophia.png");
+}
+
+.avatar-ethan {
+  background-image: url("assets/image/avatar-ethan.png");
+}
+
+.avatar-olivia {
+  background-image: url("assets/image/avatar-olivia.png");
+}
